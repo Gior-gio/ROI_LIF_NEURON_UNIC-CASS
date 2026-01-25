@@ -1,4 +1,4 @@
-# Analog spiking neuron using a time domain ring oscillator integrator // UNIC-CASS 2025
+# Spiking neuron using a time domain ring oscillator integrator // UNIC-CASS 2025
 
 ## About this project
 
