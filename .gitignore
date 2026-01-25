@@ -1,0 +1,10 @@
+drc_run*
+work/*/gds/drc_run*
+
+backups
+work/*/gds/backups
+
+simulations
+work/simulations
+work/*/simulations
+work/*/*/simulations
