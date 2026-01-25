@@ -9,8 +9,7 @@ Ring oscillator based time domain integrator for a leaky integrate and fire spik
 - Michel Salazar (B)
 - Carlos Álvarez (B)
 
-## Team background
-### Academic Experience:
+**Academic Experience:**
 - (M): MSc in EE Student at UIS
 - (B): BSc in EE Student at UIS
 - 
