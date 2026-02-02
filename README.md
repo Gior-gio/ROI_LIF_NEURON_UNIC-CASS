@@ -27,4 +27,5 @@ This project seeks to show that this topology can serve as a basic building bloc
 ## References
 
 [1] S. Sanjeet, S. Das, S. -H. W. Chiang, M. Fujita and B. D. Sahoo, ""Systematic Design of Ring VCO-Based SNN - Translating Training Parameters to Circuits -,"" 2024 IEEE 67th International Midwest Symposium on Circuits and Systems (MWSCAS), Springfield, MA, USA, 2024, pp. 1212-1216, doi: 10.1109/MWSCAS60917.2024.10658910.
+
 [2] T. Barton et al., ""A Subthreshold Time-Domain Analog Spiking Neuron With PLL-Based Leak Circuit and Capacitive DAC Synapse,"" in IEEE Solid-State Circuits Letters, vol. 7, pp. 143-146, 2024, doi: 10.1109/LSSC.2024.3384762
